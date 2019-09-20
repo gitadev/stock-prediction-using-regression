@@ -6,5 +6,9 @@ Run regression.py to view the three regression lines and the actual adjusted clo
 
 See the following print outs:
 
+<img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png' />
+
+
 https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png
 
+https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png?raw=true
