@@ -17,7 +17,7 @@ See the following print outs:
 
 <img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-zoom2.png' />
 
-<h3>Zoomed in much more to see the seperation of the ridge forecasts with the linear regression forecasts</h3>
+<h3>Zoomed in much more to see the seperation of the ridge forecasts with the linear regression forecasts (very simular forecasts)</h3>
 <hr></hr>
 
 <img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-big.png' />
