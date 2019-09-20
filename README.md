@@ -8,7 +8,5 @@ See the following print outs:
 
 <img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png' />
 
+<h2>Lasso Forecast is the best performing one</h2>
 
-https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png
-
-https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-lasso-best.png?raw=true
