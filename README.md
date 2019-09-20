@@ -10,3 +10,11 @@ See the following print outs:
 
 <h2>Lasso Forecast is the best performing one</h2>
 
+<img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-zoom1.png' />
+
+<p>Zoomed in to see the seperation of the Lasso with the linear regression</p>
+
+
+<img src='https://github.com/gitadev/stock-prediction-using-regression/blob/master/nvda-forcast-zoom2.png' />
+
+<p>Zoomed in much more to see the seperation of the ridge forecasts with the linear regression forecasts</p>
